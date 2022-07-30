@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+p{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
